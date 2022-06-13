@@ -1,3 +1,9 @@
-<?php
-	echo "HOLA MUNDO";
-?>
+<html>
+<head>
+</head>
+<body>
+	<?php
+		echo "HOLA MUNDO";
+	?>
+</body>
+</html>
